@@ -1,49 +1,73 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hello there, I'm Bala Chikkala!"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+ML/Ai Engineer with over 3+ years of professional experience, specializing in model building, model optimization, and Generative AI. Expert in leveraging cloud technologies for deploying scalable machine learning solutions and proficient in various deployment strategies. Highly skilled in developing and delivering high-impact solutions in Data Science and Machine Learning, with a proven track record of enhancing project efficiency and accuracy. Ready to tackle challenging roles with innovative approaches, contributing to project success and technological advancement.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+SKILLS
+---
+• Languages: Python, SQL, NoSQL, Pyspark, Java, C++, Scala
+• Frameworks/Libraries: NumPy, Pandas, Matplotlib, SciPy, Tensorflow, Pytorch, Keras, scikit-learn, NLTK,
+OpenCV, FastAI, Gradio, Streamlit, CUDA, Hugging Face
+• Data Processing/ETL Tools: Apache Spark, Hadoop, Kafka, Airflow, PySpark
+• Data Visualization Tools: Tableau, Power BI, Seaborn, ggplot2
+• Database Management: MySQL, PostgreSQL, MongoDB, DynamoDB, Cassandra, Redis, ChromaDB, LlamaIndex
+• Cloud Platforms and Services:
+• AWS: EC2, Lambda, S3, SageMaker, Bedrock, Redshift, EMR, Glue, Athena, QuickSight
+• GCP: AI Platform, BigQuery, Dataflow, Dataproc, Cloud Storage, Pub/Sub, Looker
+• Machine Learning/Deep Learning: CNN, RNN, GAN, Linear Regression, Logistic Regression, Decision Trees, Classification, SVM, Random Forests, Naive Bayes, KNN, K Means, Transformers, MAMBA, Reinforcement Learning, A/B Testing, Hypothesis Testing, Time Series Forecasting, Supply chain, Generative Models, Large Language Models (LLMs), Multi Models, Computer Vision, Quantization, LoRA, Fine-tuning, Conversational AI
+ • Developer Tools: Git, GitHub, Docker, Jenkins
+• Big Data Technologies: BigQuery, Redshift, Snowflake, HBase
+• Other Skills: API Development, Microservices Architecture, Agile Methodologies, Docker
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+NebulAI
+Artificial Intellegnce Engineer    June 2024 - Present
+---
+• Designed and implemented the overall architecture for AI workflows, including automated calling solutions, web scraping pipelines, and chatbot integrations.
+• Utilized SynthFlow and HubSpot to create AI-driven automated calling solutions, streamlining communication processes across various business domains.
+• Developed intelligent chatbots using Kore.ai, automating website interactions and improving customer engagement through AI-powered conversations.
+• Implemented a Retrieval-Augmented Generation (RAG) pipeline, increasing the accuracy and relevance of AI-generated responses by 30% through a combination of generative and retrieval-based techniques.
+• Developed and deployed APIs and microservices to integrate advanced AI capabilities into new and existing applications, ensuring scalability and seamless functionality.
+• Designed and maintained scalable AI infrastructure on cloud platforms such as AWS, Azure, and GCP, optimizing the deployment of LLMs like Gemini, LLaMA, and GPT.
+• Fine-tuned and deployed AI models on domain-specific data, improving performance and precision in key applications.
+• Collaborated with cross-functional teams to design and build cloud-based architectures that support scalable AI
+infrastructure for various applications.
+• Led the development of automated workflows and web scraping pipelines, accelerating deployment times and improving
+the overall quality of AI solutions.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
+University of North Texas             Aug 2022 – May 2024
+---
+Research Associate in Data Science and Deep Learning Denton, USA
+• Conducted research on breast cancer prediction using histopathology images with 40x, 80x, 100x, and 200x magnification Processed and analyzed a dataset of 7,523 histopathology images to identify patterns and markers indicative of breast cancer
+• Developed and compared multiple deep learning models, including a custom CNN with 5 layers, VGG-16, VGG-19, AlexNet, and GoogleNet, achieving an accuracy of 91.9% with the custom CNN model
+• Speech Emotion Recognition (SER) Conducted research under a professor to develop a Speech Emotion Recognition system using deep learning models to analyze voice signals and classify human emotions. Processed voice datasets and extracted mel-frequency cepstral coefficients (MFCCs) to represent audio features. Built and evaluated multiple models, including a custom 5-layer CNN, achieving a testing accuracy of 92.9% for emotion classification.
+• Demonstrated successful classification of emotions from both male and female voice data, highlighting potential applications in healthcare, education, call centers, and chatbot integration. Tools and Technologies: Utilized Python, TensorFlow, Keras, and audio processing libraries for feature extraction and model development. Research Outcomes: Provided a foundation for further SER data collection and integration with large language models (LLMs).
 Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Accenture Technologies                              Jun 2021 – Aug 2022 
+Machine Learning Engineer 
+---
+• Spearheaded initiatives leveraging extensive datasets, including millions of records from diverse domains such as finance, healthcare, and e-commerce.
+• Analyzed and processed vast healthcare datasets, comprising over 10 million patient records, to develop predictive models for patient outcomes, disease progression, and resource allocation.
+• Improved model accuracy by 15% through the development and implementation of sophisticated algorithms using TensorFlow and PyTorch.
+• Developed and deployed predictive models that enhanced diagnostic accuracy by 20% and treatment personalization, resulting in a 15% reduction in patient readmission rates.
+• Streamlined deployment times by 50% through the integration of automated workflows and robust CI/CD pipelines.
+• Ensured compliance with healthcare regulations and standards (e.g., HIPAA) while managing sensitive patient data,
+safeguarding the privacy of over 10 million patients.
+• Expedited project deliverables by 30%, ensuring timely and impactful outcomes through effective project management
+and collaboration
+• Worked closely with data scientists, healthcare professionals, and stakeholders to deliver data-driven solutions and
+insights, resulting in a 25% improvement in clinical decision-making processes.
+• Conducted in-depth data analysis and feature engineering, analyzing over 100 million data points to enhance model
+performance and business value.
+• Leveraged machine learning techniques to identify key factors influencing patient outcomes, enabling targeted
+interventions that improved patient satisfaction scores by 18%.
+• Mentored junior team members and provided training on advanced machine learning techniques and best practices,
+resulting in a 40% improvement in team efficiency and skill development
